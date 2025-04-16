@@ -1,7 +1,7 @@
 📝 **Task Manager** (Full Stack App)
 A simple full-stack Task Manager application built with React (frontend) and Node.js + Express (backend). It allows users to view a list of tasks and mark them as completed. The frontend uses Context API for state management and displays a loading animation during API calls.
 
-🔧 **Tech Stack**
+🔧 **Tech Stack**   
 Frontend: React (with Context API)
 
 Backend: Node.js v20.17.0, Express
@@ -15,7 +15,7 @@ API: RESTful
 Data: In-memory (no database)
 
 
-📡 **API Endpoints**
+📡 **API Endpoints**  
 GET /api/tasks – Fetch all tasks
 
 PUT /api/tasks/:id – Mark a task as completed
