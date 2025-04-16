@@ -1,4 +1,4 @@
-📝** Task Manager** (Full Stack App)
+📝 **Task Manager** (Full Stack App)
 A simple full-stack Task Manager application built with React (frontend) and Node.js + Express (backend). It allows users to view a list of tasks and mark them as completed. The frontend uses Context API for state management and displays a loading animation during API calls.
 
 🔧 **Tech Stack**
